@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUNDLE_ID</key>
+	<string>com.play-ground.Google-Authenticator</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.292444068697-u161bubpk3obd0nnmrtb73tm5j4bgjdt</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>292444068697-u161bubpk3obd0nnmrtb73tm5j4bgjdt.apps.googleusercontent.com</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.292444068697-q8iooh1ar1p77g616hbodl9s5u6hkeo9</string>
+</dict>
+</plist>
